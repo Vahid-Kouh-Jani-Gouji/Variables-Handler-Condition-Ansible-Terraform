@@ -9,3 +9,5 @@
 *.tfstate.*
 
 .terraform.lock.hcl
+.pass 
+*.pass
